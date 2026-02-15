@@ -1,0 +1,1 @@
+pip install pandas numpy openai anthropic langchain-openai python-dotenv requests
