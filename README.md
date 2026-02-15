@@ -11,6 +11,7 @@ ollama pull llama3.2:1b
 ollama run llama3.2:1b
 
 ## Install required python packages
+llm_env/packages installation
 
 ## Run local python code :
 python loandemo.py
